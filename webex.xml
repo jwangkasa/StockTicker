@@ -7,7 +7,7 @@
    <ModulePrefs title="Webex" description="Webex POC OpenSocial Gadget 7" author="Joni Wong Angkasa" height="225">
      
    </ModulePrefs>
-    <Content type="url" href="https://raw.githubusercontent.com/jwangkasa/StockTicker/master/apprtc.html"/>
+    <Content type="url" href="https://raw.githubusercontent.com/webrtc/samples/master/src/content/getusermedia/filter/index.html"/>
  </Module>
 
 
