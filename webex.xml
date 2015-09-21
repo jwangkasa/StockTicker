@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with Notepad at Wed Sep 09 22:10:00 CDT 2015 -->
+
+
+ <Module>
+   <ModulePrefs title="Webex" description="Webex POC OpenSocial Gadget 7" author="Joni Wong Angkasa" height="225">
+     <Link rel="Icon" href="http://anthonymastrean.github.io/chocolateypackages/icons/webex.png"/>
+     <Link rel="MediumIcon" href="http://anthonymastrean.github.io/chocolateypackages/icons/webex.png"/>
+     <Link rel="LargeIcon" href="http://anthonymastrean.github.io/chocolateypackages/icons/webex.png"/>
+   </ModulePrefs>
+   <Content type="url" href="https://meetings.webex.com/collabs/#/home"/>
+ </Module>
+
+
+
+
