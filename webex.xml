@@ -5,7 +5,7 @@
 
  <Module>
    <ModulePrefs title="Webex" description="Webex POC OpenSocial Gadget 7" author="Joni Wong Angkasa" height="225">
-     <Link rel="Icon" href="http://anthonymastrean.github.io/chocolateypackages/icons/webex.png"/>
+     <Link rel="Icon" href="https://drive.google.com/file/d/0B7i_kbGZbQt1Z0hyZGVzZEFPbDQ/view?usp=sharing"/>
    </ModulePrefs>
    <Content type="url" href="https://apprtc.appspot.com/">
  </Module>
